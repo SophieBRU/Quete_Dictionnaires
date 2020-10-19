@@ -1,0 +1,13 @@
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.csprojAssemblyReference.cache
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.AssemblyInfoInputs.cache
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.AssemblyInfo.cs
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.exe
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.deps.json
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.runtimeconfig.json
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.runtimeconfig.dev.json
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.dll
+C:\Users\sophi\source\repos\Quete_Dictionnaire\bin\Debug\netcoreapp3.1\Quete_Dictionnaire.pdb
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.dll
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.pdb
+C:\Users\sophi\source\repos\Quete_Dictionnaire\obj\Debug\netcoreapp3.1\Quete_Dictionnaire.genruntimeconfig.cache
